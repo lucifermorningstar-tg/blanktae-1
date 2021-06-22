@@ -1,11 +1,11 @@
-![Cutiepii](https://telegra.ph/file/5058a17bd9447eb07a47f.png)
-# 𝑪𝒖𝒕𝒊𝒆𝒑𝒊𝒊 𝑹𝒐𝒃𝒐𝒕
+![BlankTae](https://telegra.ph/file/3e75d7bd859584130f284.jpg)
+
 [![GPLv3 license](https://img.shields.io/badge/License-GPLv3-blue.svg)](http://perso.crans.org/besson/LICENSE.html) [![DeepSource](https://static.deepsource.io/deepsource-badge-light-mini.svg)](https://deepsource.io/gh/pokurt/LyndaRobot/?ref=repository-badge)
 [![Codacy Badge](https://app.codacy.com/project/badge/Grade/41ee9ac813a34042925a6b6fa92cf84e)](https://www.codacy.com?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=AmaanAhmed/Lynda&amp;utm_campaign=Badge_Grade) [![Join Support!](https://img.shields.io/badge/Join%20Channel-!-red)](https://t.me/LyndaEagleSupport) [![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.png?v=103)](https://github.com/ellerbrock/open-source-badges/) [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://GitHub.com/Naereen/StrapDown.js/graphs/commit-activity) [![GitHub contributors](https://img.shields.io/github/contributors/Naereen/StrapDown.js.svg)](https://GitHub.com/pokurt/LyndaRobot/graphs/contributors/)
 
 A modular telegram Python bot running on python3 with an sqlalchemy, Redis, mongodb database.
 
-Can be found on telegram as [Cutiepii](https://t.me/Cutiepii_Robot).
+Can be found on telegram as [Blank Tae](https://t.me/blank_tae_bot).
 
 The Support group can be reached out to at [Eagle Union](https://t.me/YorktownEagleUnion), where you can ask for help setting up your bot, discover/request new features, report bugs, and stay in the loop whenever a new update is available. 
 
